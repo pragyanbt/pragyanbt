@@ -69,8 +69,7 @@ Emergency alert **Android mobile app** built with **Kotlin**.
 - One-tap alerts with **location sharing**  
 - SMS integration for emergency contacts  
 - Accessible UI for urgent situations  
-
-<img src="https://via.placeholder.com/400x200.png?text=ProtectMe+App+Preview" alt="ProtectMe Demo" width="400"/>  
+ 
 
 </td>
 </tr>
@@ -86,8 +85,6 @@ Java desktop application for **college data management**.
 - SQL database integration  
 - Reliable & secure data access  
 
-<img src="https://via.placeholder.com/400x200.png?text=ATM+Master+Preview" alt="ATM Master Demo" width="400"/>  
-
 </td>
 <td width="50%">
 
@@ -95,9 +92,7 @@ Java desktop application for **college data management**.
 Financial literacy web app – **1st Runner-Up @ Fidelity Hackathon**.  
 - Budget tracking & financial planning  
 - Clean, intuitive UI  
-- Built for hackathon demo in record time  
-
-<img src="https://via.placeholder.com/400x200.png?text=BudgetBuddy+Preview" alt="BudgetBuddy Demo" width="400"/>  
+- Built for hackathon demo in record time   
 
 </td>
 </tr>
@@ -119,7 +114,7 @@ Financial literacy web app – **1st Runner-Up @ Fidelity Hackathon**.
 ## 📫 Let’s Connect  
 
 - ✉️ [Email Me](mailto:pragyanbt2002@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/pragyanbt)  
+- 🌐 [LinkedIn](https://linkedin.com/in/pragyan-budhathoki)  
 - 🖥️ [GitHub](https://github.com/pragyanbt)  
 
 ---
