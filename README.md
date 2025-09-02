@@ -1,12 +1,19 @@
 # 👋 Hi, I'm Pragyan Budhathoki  
 
-🎓 **Computer Science Student @ Northern Kentucky University (GPA: 3.78)**  
-💻 **Full Stack Java Developer | React.js Enthusiast | AWS Certified Cloud Practitioner**  
-🚀 Passionate about building scalable applications, exploring cloud solutions, and creating user-friendly software.  
+💻 **Full Stack Java Developer**  
+
+I specialize in building **scalable web applications** and **robust backend systems** using Java, Spring Boot, and React.js.  
+With strong expertise in **databases, REST APIs, and cloud solutions (AWS, Azure)**, I enjoy turning ideas into reliable and user-friendly software.  
+
+I focus on:
+- 🚀 Developing **end-to-end applications** with modern architectures  
+- ☁️ Deploying and scaling apps on the **cloud (AWS)**  
+- 🛠️ Writing **clean, maintainable code** that solves real-world problems  
+- 🎨 Designing **intuitive and responsive UIs** with React.js  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Technical Skills  
 
 ### 💻 Languages & Frameworks  
 <p>
@@ -15,11 +22,10 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
 </p>
 
 ### 🗄️ Databases  
@@ -43,45 +49,77 @@
 
 ## 📂 Featured Projects  
 
-### 🔹 [NutriByte](#)  
-AI-powered chatbot web app that generates personalized nutrition & workout plans.  
-- Built with **React + TypeScript + AWS** for secure auth & real-time data.  
-- Responsive UI/UX for tracking health goals and monitoring progress.  
-- Integrated APIs for fitness & nutrition recommendations.  
+<table>
+<tr>
+<td width="50%">
+  
+### 🥗 NutriByte  
+AI-powered chatbot web app for **personalized nutrition & workout plans**.  
+- Built with **React + TypeScript + AWS**  
+- Secure authentication & real-time progress tracking  
+- Integrated APIs for fitness & nutrition data  
 
-### 🔹 [ProtectMe App](#)  
-Emergency-alert Android app built in **Kotlin**.  
-- One-tap alert system with location sharing and SMS integration.  
-- Customizable quick-action emergency messages.  
-- Stress-friendly UI for accessibility during urgent situations.  
+<img src="https://via.placeholder.com/400x200.png?text=NutriByte+Preview" alt="NutriByte Demo" width="400"/>  
 
-### 🔹 [ATM Master](#)  
-Java desktop application for secure college data access.  
-- Role-based authentication with dynamic dashboards.  
-- SQL database integration for real-time data handling.  
-- Focused on **security, reliability, and user experience**.  
+</td>
+<td width="50%">
+  
+### 🆘 ProtectMe App  
+Emergency alert **Android mobile app** built with **Kotlin**.  
+- One-tap alerts with **location sharing**  
+- SMS integration for emergency contacts  
+- Accessible UI for urgent situations  
 
-### 🔹 [BudgetBuddy](#) – Hackathon Project  
-Financial literacy web app built in a hackathon.  
-- Awarded **1st Runner-Up @ Fidelity Hackathon (2023)**.  
-- Focused on **budget tracking** and **financial planning** with a clean UI.  
+<img src="https://via.placeholder.com/400x200.png?text=ProtectMe+App+Preview" alt="ProtectMe Demo" width="400"/>  
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 ATM Master  
+Java desktop application for **college data management**.  
+- Role-based authentication  
+- SQL database integration  
+- Reliable & secure data access  
+
+<img src="https://via.placeholder.com/400x200.png?text=ATM+Master+Preview" alt="ATM Master Demo" width="400"/>  
+
+</td>
+<td width="50%">
+
+### 💰 BudgetBuddy (Hackathon)  
+Financial literacy web app – **1st Runner-Up @ Fidelity Hackathon**.  
+- Budget tracking & financial planning  
+- Clean, intuitive UI  
+- Built for hackathon demo in record time  
+
+<img src="https://via.placeholder.com/400x200.png?text=BudgetBuddy+Preview" alt="BudgetBuddy Demo" width="400"/>  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Certifications & Achievements  
 
-- **AWS Certified Cloud Practitioner (2024)**  
-- **Fidelity Hackathon – 1st Runner-Up (2023)**  
-- **Trinity Hackathon – Best UI/UX Award (2020)**  
-- **TNS Medal + $5000 Prize – Hospital Management System (2019)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fidelity%20Hackathon-1st%20Runner%20Up-blue?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trinity%20Hackathon-Best%20UI%2FUX-brightgreen?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TNS%20Medal%20%26%20Prize-Winner-gold?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect!  
+## 📫 Let’s Connect  
 
-- 📍 Dallas, TX, USA  
 - ✉️ [Email Me](mailto:pragyanbt2002@gmail.com)  
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/pragyan-budhathoki/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pragyan-budhathoki/)  
 - 🖥️ [GitHub](https://github.com/pragyanbt)  
 
 ---
